@@ -1,8 +1,8 @@
 # Rebuild
-Last updated: 2022-11-13
+Last updated: 2022-11-14
 
 ### Summary
-After my first year of fatherhood and with everything going on *gestures wildly* in the world and the internet, I’ve decided it’s time to rebuild. I’m not just talking about just my personal website. I’m talking about reworking how I build. How I extract ideas, track them, evaluate them and build them. Part of that will include rebuilding populate web apps like Instagram, Notion and Twitter, to provide not only fun exercises of building well known real world applications, but as web companies continue to obsess over monetizing attention and data, this will allow me to find new homes for my own data that I can control and experiment with.
+After my first year of fatherhood and with everything going on *gestures wildly* in the world and the internet, I’ve decided it’s time to rebuild. I’m not just talking about just my personal website. I’m talking about reworking how I build. How I extract ideas, track them, evaluate them and build them. Part of that will include rebuilding popular web apps like Instagram, Notion and Twitter, to provide not only fun exercises of building well known real world applications, but as web companies continue to obsess over monetizing attention and data, this will allow me to find new homes for my own data that I can control and experiment with.
  
 Getting back to basics and foundational principles. First principles?
 
@@ -35,4 +35,5 @@ Getting back to basics and foundational principles. First principles?
 ### Activity Log
 * Monday, November 6th - initial project outline and summary
 * Sunday, November 13th - setup rebuild.zackgilbert.com via github pages
+* Monday, November 14th - install analytics via the wonderful [Fathom Analytics](https://usefathom.com/ref/DNQLHG)
 
