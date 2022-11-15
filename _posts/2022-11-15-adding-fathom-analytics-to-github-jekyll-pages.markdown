@@ -2,10 +2,8 @@
 layout: post
 title: "Adding Fathom Analytics to Github Jekyll Pages"
 date: 2022-11-15
-categories: rebuild analytics fathom github pages jekyll
+tags: rebuild analytics fathom github pages jekyll
 ---
-
-# Adding Fathom Analytics to Github Jekyll Pages
 
 While deciding to work on this [Rebuild](https://rebuild.zackgilbert.com) project, I wanted to do a better job of utilizing technologies and services that can make my work more efficient. I decided to use the [Github Pages](https://docs.github.com/en/pages), which are built off Jekyll and use Markdown instead of writing native HTML. They allow me to edit files directly in Github but still taking advantage of the core version control. To keep things as simple as possible, I went with the Github supported [minimal](https://github.com/pages-themes/minimal) theme. Unfortunately, while it does have built in Google Analytics support, it did not natively support my preferred analytics software (and sponsor of this project): [Fathom Analytics](https://usefathom.com/ref/DNQLHG).
 
