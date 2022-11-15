@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Adding Fathom Analytics to Github Jekyll Pages
-date: 2022-11-15 17:50:00 -0000
-categories: REBUILD ANALYTICS FATHOM GITHUB PAGES JEYKYLL
+title: "Adding Fathom Analytics to Github Jekyll Pages"
+date: 2022-11-15
+categories: rebuild analytics fathom github pages jekyll
 ---
 
 # Adding Fathom Analytics to Github Jekyll Pages
