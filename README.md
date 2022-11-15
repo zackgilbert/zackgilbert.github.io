@@ -1,10 +1,8 @@
 # Rebuild
-Last updated: 2022-11-14
+Last updated: 2022-11-15
 
 ### Summary
-After my first year of fatherhood and with everything going on *gestures wildly* in the world and the internet, I’ve decided it’s time to rebuild. I’m not just talking about just my personal website. I’m talking about reworking how I build. How I extract ideas, track them, evaluate them and build them. Part of that will include rebuilding popular web apps like Instagram, Notion and Twitter, to provide not only fun exercises of building well known real world applications, but as web companies continue to obsess over monetizing attention and data, this will allow me to find new homes for my own data that I can control and experiment with.
- 
-Getting back to basics and foundational principles. First principles?
+After my first year of fatherhood and with everything going on *gestures wildly* in the world and the internet, I’ve decided it’s time to rebuild. I’m not just talking about just my personal website. I’m talking about reworking how I build. How I extract ideas, track them, evaluate them and build them. Part of that will include rebuilding popular web apps like Instagram, Notion and Twitter, to provide not only fun exercises of building well known real world applications, but as web companies continue to obsess over monetizing attention and data, this will allow me to find new homes for my own data that I can control and experiment with. Getting back to basics and first principles.
 
 ### What it could be
 * A focused step by step chronicling of progress in an attempt to relearn how to best work on pet or side projects while also prioritizing my family and full time work.
@@ -33,7 +31,7 @@ Getting back to basics and foundational principles. First principles?
 * Rebuild concerts
 
 ### Activity Log
-* Monday, November 6th - initial project outline and summary
-* Sunday, November 13th - setup rebuild.zackgilbert.com via github pages
+* Tuesday, November 15th - Got posts working with [Adding Fathom Analytics to Github Jekyll Pages](/2022/11/15/adding-fathom-analytics-to-github-jekyll-pages)
 * Monday, November 14th - install analytics via the wonderful [Fathom Analytics](https://usefathom.com/ref/DNQLHG)
-
+* Sunday, November 13th - setup rebuild.zackgilbert.com via github pages
+* Monday, November 6th - initial project outline and summary
