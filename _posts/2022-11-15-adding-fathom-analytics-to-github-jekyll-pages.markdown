@@ -2,7 +2,7 @@
 layout: post
 title: "Adding Fathom Analytics to Github Jekyll Pages"
 date: 2022-11-15
-permalink: pretty
+permalink: /:year/:month/:day/:title
 author: Zack Gilbert
 tags: rebuild analytics fathom github pages jekyll
 ---
