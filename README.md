@@ -1,7 +1,7 @@
 Last updated: 2022-11-15
 
 ### Summary
-After my first year of fatherhood and with everything going on in the world and on the internet, I’ve decided it’s time to rebuild. I’m not talking about just [my personal website](http://zackgilbert.com), but about reworking __how__ I build: how I extract ideas, track them, evaluate them and build them. I'd like to start by reorganizing and rebuilding my own personal web tools and properties, but will also explore cloning popular web apps, like Instagram, Notion and Twitter, as fun exercises of rebuilding well known real world applications. This will allow me to find a new dedicated home for my own projects and data that I can control and play with. The hope is to use this experiment to get back to basics and first principles, to rebuild strong foundations that can easily be expanded upon in the future, and to just have some fun building on the web again (something that feels lost at the moment).
+After my first year of fatherhood and with everything going on in the world and on the internet, I’ve decided it’s time to rebuild. I’m not talking about just [my personal website](http://zackgilbert.com), but about reworking _how_ I build: how I extract ideas, track them, evaluate them and build them. I'd like to start by reorganizing and rebuilding my own personal web tools and properties, but will also explore cloning popular web apps, like Instagram, Notion and Twitter, as fun exercises of rebuilding well known real world applications. This will allow me to find a new dedicated home for my own projects and data that I can control and play with. The hope is to use this experiment to get back to basics and first principles, to rebuild strong foundations that can easily be expanded upon in the future, and to just have some fun building on the web again (something that feels lost at the moment).
 
 ### What it could be
 * A focused step by step chronicling of progress in an attempt to relearn how to best work on side projects while also prioritizing my family and full time work.
@@ -23,7 +23,7 @@ After my first year of fatherhood and with everything going on in the world and 
 * ~~Rebuild summary, mission, activity log and blog~~
 * Rebuild a projects/ideas management tool
 * Rebuild [zackgilbert.com](http://zackgilbert.com)
-* Rebuild [workwithzaxk.com](http://workwithzack.com)
+* Rebuild [workwithzack.com](http://workwithzack.com)
 * Rebuild my [concert tracker](http://zackgilbert.com/concerts)
 * Rebuild a Notion clone
 * Rebuild a Instagram clone
