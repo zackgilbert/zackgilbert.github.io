@@ -2,13 +2,13 @@
 Last updated: 2022-11-15
 
 ### Summary
-After my first year of fatherhood and with everything going on *gestures wildly* in the world and the internet, I’ve decided it’s time to rebuild. I’m not just talking about just my personal website. I’m talking about reworking how I build. How I extract ideas, track them, evaluate them and build them. Part of that will include rebuilding popular web apps like Instagram, Notion and Twitter, to provide not only fun exercises of building well known real world applications, but as web companies continue to obsess over monetizing attention and data, this will allow me to find new homes for my own data that I can control and experiment with. Getting back to basics and first principles.
+After my first year of fatherhood and with everything going on in the world and on the internet, I’ve decided it’s time to rebuild. I’m not talking about just [my personal website](http://zackgilbert.com), but about reworking __how__ I build: how I extract ideas, track them, evaluate them and build them. I'd like to start by reorganizing and rebuilding my own personal web tools and properties, but will also explore cloning popular web apps, like Instagram, Notion and Twitter, as fun exercises of rebuilding well known real world applications. This will allow me to find a new dedicated home for my own projects and data that I can control and play with. The hope is to use this experiment to get back to basics and first principles, to rebuild strong foundations that can easily be expanded upon in the future, and to just have some fun building on the web again (something that feels lost at the moment).
 
 ### What it could be
-* A focused step by step chronicling of progress in an attempt to relearn how to best work on pet or side projects while also prioritizing my family and full time work.
+* A focused step by step chronicling of progress in an attempt to relearn how to best work on side projects while also prioritizing my family and full time work.
 * Something fun to share with family, friends and/or internet randos that either find this inspiring or are just curious.
 * A fun experiment and chance to exercise some new (and old) skills.
-* Format will most likely consistent of everything incrementally stored and updated in git, to ensure a change log and history.
+* Format will most likely consist of everything incrementally stored and updated in git, to ensure a change log and history.
 
 ### What it won’t be
 * Video, audio or long form content.
@@ -18,20 +18,22 @@ After my first year of fatherhood and with everything going on *gestures wildly*
 ### What inspired this?
 * [Josh Pigford’s projects spreadsheet](https://twitter.com/shpigford/status/1033032915175858176?s=46&t=8UnaRcO0QWgP3l21v-zrBw)
 * Elon taking over and slowly dismantling Twitter.
-* Desire to get back into building for fun. 
+* Desire to get back into building single serving web tools for fun without expectation of scale.
 
-### Potential Projects
-* Rebuild summary and mission
-* Rebuild projects database
-* Rebuild Twitter
-* Rebuild Notion
-* Rebuild Instagram
-* Rebuild zackgilbert.com
-* Rebuild workwithzack.com
-* Rebuild concerts
+### Potential Project Roadmap
+* ~~Rebuild summary, mission, activity log and blog~~
+* Rebuild a projects/ideas management tool
+* Rebuild http://zackgilbert.com
+* Rebuild http://workwithzack.com
+* Rebuild my [concert tracker](http://zackgilbert.com/concerts)
+* Rebuild a Notion clone
+* Rebuild a Instagram clone
+* Rebuild a Twitter replacement
+* Rebuild a digital ecommerce platform
+* Rebuild a link shortening/tracking tool
 
 ### Activity Log
-* Tuesday, November 15th - Got posts working with [Adding Fathom Analytics to Github Jekyll Pages](/2022/11/15/adding-fathom-analytics-to-github-jekyll-pages)
-* Monday, November 14th - install analytics via the wonderful [Fathom Analytics](https://usefathom.com/ref/DNQLHG)
-* Sunday, November 13th - setup rebuild.zackgilbert.com via github pages
-* Monday, November 6th - initial project outline and summary
+* Tuesday, November 15th - Got posts working with [Adding Fathom Analytics to Github Jekyll Pages](https://rebuild.zackgilbert.com/2022/11/15/adding-fathom-analytics-to-github-jekyll-pages)
+* Monday, November 14th - Installed analytics via the wonderful [Fathom Analytics](https://usefathom.com/ref/DNQLHG) (sponsor)
+* Sunday, November 13th - Setup https://rebuild.zackgilbert.com via github pages
+* Monday, November 6th - Initial project outline and overview
