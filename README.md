@@ -1,4 +1,3 @@
-# Rebuild
 Last updated: 2022-11-15
 
 ### Summary
@@ -23,8 +22,8 @@ After my first year of fatherhood and with everything going on in the world and 
 ### Potential Project Roadmap
 * ~~Rebuild summary, mission, activity log and blog~~
 * Rebuild a projects/ideas management tool
-* Rebuild http://zackgilbert.com
-* Rebuild http://workwithzack.com
+* Rebuild [zackgilbert.com](http://zackgilbert.com)
+* Rebuild [workwithzaxk.com](http://workwithzack.com)
 * Rebuild my [concert tracker](http://zackgilbert.com/concerts)
 * Rebuild a Notion clone
 * Rebuild a Instagram clone
@@ -35,5 +34,5 @@ After my first year of fatherhood and with everything going on in the world and 
 ### Activity Log
 * Tuesday, November 15th - Got posts working with [Adding Fathom Analytics to Github Jekyll Pages](https://rebuild.zackgilbert.com/2022/11/15/adding-fathom-analytics-to-github-jekyll-pages)
 * Monday, November 14th - Installed analytics via the wonderful [Fathom Analytics](https://usefathom.com/ref/DNQLHG) (sponsor)
-* Sunday, November 13th - Setup https://rebuild.zackgilbert.com via github pages
+* Sunday, November 13th - Setup [Rebuild](https://rebuild.zackgilbert.com) via github pages
 * Monday, November 6th - Initial project outline and overview
