@@ -21,7 +21,7 @@ After my first year of fatherhood and with everything going on in the world and 
 
 ### Potential Project Roadmap
 * ~~Rebuild summary, mission, activity log and blog~~
-* Rebuild a projects/ideas management tool
+* ~~Rebuild a projects/ideas management tool~~ [v1](https://docs.google.com/spreadsheets/d/12vxRYLiDF-cSlhvIf2hHiJ6oE1ZQD79s41yMkZIYIS0/edit?usp=sharing)
 * Rebuild [zackgilbert.com](http://zackgilbert.com)
 * Rebuild [workwithzack.com](http://workwithzack.com)
 * Rebuild my [concert tracker](http://zackgilbert.com/concerts)
@@ -32,7 +32,9 @@ After my first year of fatherhood and with everything going on in the world and 
 * Rebuild a link shortening/tracking tool
 
 ### Activity Log
-* Tuesday, November 15th - Got posts working with [Adding Fathom Analytics to Github Jekyll Pages](https://rebuild.zackgilbert.com/2022/11/15/adding-fathom-analytics-to-github-jekyll-pages)
-* Monday, November 14th - Installed analytics via the wonderful [Fathom Analytics](https://usefathom.com/ref/DNQLHG) (sponsor)
+* Thursday, November 17th - Added an [RSS feed](https://rebuild.zackgilbert.com/feed.xml) for posts (~10 minutes in the morning)
+* Wednesday, November 16th - First pass at putting together a [Projects + Ideas spreadsheet](https://docs.google.com/spreadsheets/d/12vxRYLiDF-cSlhvIf2hHiJ6oE1ZQD79s41yMkZIYIS0/edit?usp=sharing) (~2 hours of data entry in the evening)
+* Tuesday, November 15th - Got posts working with [Adding Fathom Analytics to Github Jekyll Pages](https://rebuild.zackgilbert.com/2022/11/15/adding-fathom-analytics-to-github-jekyll-pages) (~2 hours of writing in the morning, during lunch and in the evening)
+* Monday, November 14th - Installed analytics via the wonderful [Fathom Analytics](https://usefathom.com/ref/DNQLHG) (sponsor) (~15 minutes)
 * Sunday, November 13th - Setup [Rebuild](https://rebuild.zackgilbert.com) via github pages
-* Monday, November 6th - Initial project outline and overview
+* Monday, November 6th - Initial project outline and overview (~2 hours of writing in the evening)
