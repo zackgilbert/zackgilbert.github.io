@@ -32,7 +32,7 @@ After my first year of fatherhood and with everything going on in the world and 
 * Rebuild a link shortening/tracking tool
 
 ### Activity Log
-* Saturday, November 19th - Reorganized and updated [zackgilbert.com](https://zackgilbert.com) & [zackgilbert.com/concerts](https://zackgilbert.com/concerts) (~3 hours while baby slept)
+* Saturday, November 19th - Reorganized and updated [zackgilbert.com](https://zackgilbert.com) & [zackgilbert.com/concerts](https://zackgilbert.com/concerts). Added a [/now](/now) page. (~3 hours while baby slept)
 * Thursday, November 17th - Added an [RSS feed](https://rebuild.zackgilbert.com/feed.xml) for posts (~10 minutes in the morning)
 * Wednesday, November 16th - First pass at putting together a [Projects + Ideas spreadsheet](https://docs.google.com/spreadsheets/d/12vxRYLiDF-cSlhvIf2hHiJ6oE1ZQD79s41yMkZIYIS0/edit?usp=sharing) (~2 hours of data entry in the evening)
 * Tuesday, November 15th - Got posts working with [Adding Fathom Analytics to Github Jekyll Pages](https://rebuild.zackgilbert.com/2022/11/15/adding-fathom-analytics-to-github-jekyll-pages) (~2 hours of writing in the morning, during lunch and in the evening)
