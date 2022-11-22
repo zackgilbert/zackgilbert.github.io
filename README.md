@@ -1,4 +1,4 @@
-Last updated: 2022-11-19
+Last updated: 2022-11-21
 
 ### Summary
 After my first year of fatherhood and with everything going on in the world and on the internet, I’ve decided it’s time to rebuild. I’m not talking about just [my personal website](http://zackgilbert.com), but about reworking _how_ I build: how I extract ideas, track them, evaluate them and build them. I'd like to start by reorganizing and rebuilding my own personal web tools and properties, but will also explore cloning popular web apps, like Instagram, Notion and Twitter, as fun exercises of rebuilding well known real world applications. This will allow me to find a new dedicated home for my own projects and data that I can control and play with. The hope is to use this experiment to get back to basics and first principles, to rebuild strong foundations that can easily be expanded upon in the future, and to just have some fun building on the web again (something that feels lost at the moment).
@@ -22,8 +22,7 @@ After my first year of fatherhood and with everything going on in the world and 
 ### Potential Project Roadmap
 * ~~Rebuild summary, mission, activity log and blog~~
 * ~~Rebuild a projects/ideas management tool~~ [v1](https://docs.google.com/spreadsheets/d/12vxRYLiDF-cSlhvIf2hHiJ6oE1ZQD79s41yMkZIYIS0/edit?usp=sharing)
-* ~~Rebuild [zackgilbert.com](https://zackgilbert.com)~~
-* ~~Rebuild my [concert tracker](https://zackgilbert.com/concerts)~~
+* ~~Rebuild and reorganize [zackgilbert.com](zackgilbert.com) properties~~
 * Rebuild [workwithzack.com](http://workwithzack.com)
 * Rebuild a Notion clone
 * Rebuild a Instagram clone
@@ -32,7 +31,8 @@ After my first year of fatherhood and with everything going on in the world and 
 * Rebuild a link shortening/tracking tool
 
 ### Activity Log
-* Saturday, November 19th - Reorganized and updated [zackgilbert.com](https://zackgilbert.com) & [zackgilbert.com/concerts](https://zackgilbert.com/concerts). Added a [/now](/now) page. (~3 hours while baby slept)
+* Monday, November 21st - Added a [https://zackgilbert.com/web](/web) and navigation to [zackgilbert.com](https://zackgilbert.com) pages. (~2 hours while baby slept)
+* Saturday, November 19th - Reorganized and updated [zackgilbert.com](https://zackgilbert.com) & [zackgilbert.com/concerts](https://zackgilbert.com/concerts). Added a [https://zackgilbert.com/now](/now) page. (~3 hours while baby slept)
 * Thursday, November 17th - Added an [RSS feed](https://rebuild.zackgilbert.com/feed.xml) for posts (~10 minutes in the morning)
 * Wednesday, November 16th - First pass at putting together a [Projects + Ideas spreadsheet](https://docs.google.com/spreadsheets/d/12vxRYLiDF-cSlhvIf2hHiJ6oE1ZQD79s41yMkZIYIS0/edit?usp=sharing) (~2 hours of data entry in the evening)
 * Tuesday, November 15th - Got posts working with [Adding Fathom Analytics to Github Jekyll Pages](https://rebuild.zackgilbert.com/2022/11/15/adding-fathom-analytics-to-github-jekyll-pages) (~2 hours of writing in the morning, during lunch and in the evening)
