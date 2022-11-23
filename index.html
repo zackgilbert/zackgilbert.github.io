@@ -30,6 +30,6 @@ layout: default
 <h3 id="activity-log">Activity Log</h3>
 <ul class="activity">
   {% for post in site.categories.activity %}
-  <li>{{ post.date | date: "%A, %B %-d, %Y" }} - {{ post.title }} ({{ post.duration }})</li>
+  <li>{{ post.date | date: "%A, %B %-d, %Y" }} - {{ post.title | markdownify }} ({{ post.duration }})</li>
   {% endfor %}
 </ul>
