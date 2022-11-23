@@ -8,3 +8,14 @@ author: Zack Gilbert
 categories: activity
 tags: rebuild
 ---
+
+<small>{{ page.date | date: "%A, %B %-d, %Y" }}</small>
+<h1>{{ page.title }} ({{ page.duration }})</h1>
+
+<p class="view">by {{ page.author | default: site.author }}</p>
+
+<p>{{ page.duration }}</p>
+
+{% if page.tags %}
+  <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
+{% endif %}
