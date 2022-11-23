@@ -37,7 +37,7 @@
           <li>Rebuild a link shortening/tracking tool</li>
         </ul>
         
-        <p>Last updated: {{ site.categories.activity.last.date }}</p>
+        <p>Last updated: {{ site.categories.activity.first.date | date: "%Y-%m-%d" }}</p>
         
       </header>
       <section>
