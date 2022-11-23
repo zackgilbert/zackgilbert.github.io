@@ -24,13 +24,18 @@
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
         
-        <h3>Recent Activity</h3>
-        <ul class="activity">
-          {% for post in site.categories.activity limit:5 %}
-          <li>{{ post.date | date: "%A, %B %-d, %Y" }} - {{ post.title }} ({{ post.duration }})</li>
-          {% endfor %}
+        <h3 id="potential-project-roadmap">Project Roadmap</h3>
+        <ul class="roadmap">
+          <li><del>Rebuild summary, mission, activity log and blog</del></li>
+          <li><del>Rebuild a projects/ideas management tool</del> <a href="https://docs.google.com/spreadsheets/d/12vxRYLiDF-cSlhvIf2hHiJ6oE1ZQD79s41yMkZIYIS0/edit?usp=sharing">v1</a></li>
+          <li><del>Rebuild and reorganize <a href="zackgilbert.com">zackgilbert.com</a> properties</del></li>
+          <li>Rebuild <a href="http://workwithzack.com">workwithzack.com</a></li>
+          <li>Rebuild a Notion clone</li>
+          <li>Rebuild a Instagram clone</li>
+          <li>Rebuild a Twitter replacement</li>
+          <li>Rebuild a digital ecommerce platform</li>
+          <li>Rebuild a link shortening/tracking tool</li>
         </ul>
-        <small><a href="/activity">(view full log)</a></small>
       </header>
       <section>
 
