@@ -1,0 +1,31 @@
+<h3 id="summary">Summary</h3>
+<p>After my first year of fatherhood and with everything going on in the world and on the internet, I’ve decided it’s time to rebuild. I’m not talking about just <a href="http://zackgilbert.com">my personal website</a>, but about reworking <em>how</em> I build: how I extract ideas, track them, evaluate them and build them. I’d like to start by reorganizing and rebuilding my own personal web tools and properties, but will also explore cloning popular web apps, like Instagram, Notion and Twitter, as fun exercises of rebuilding well known real world applications. This will allow me to find a new dedicated home for my own projects and data that I can control and play with. The hope is to use this experiment to get back to basics and first principles, to rebuild strong foundations that can easily be expanded upon in the future, and to just have some fun building on the web again (something that feels lost at the moment).</p>
+
+<h3 id="what-it-could-be">What it could be</h3>
+<ul>
+  <li>A focused step by step chronicling of progress in an attempt to relearn how to best work on side projects while also prioritizing my family and full time work.</li>
+  <li>Something fun to share with family, friends and/or internet randos that either find this inspiring or are just curious.</li>
+  <li>A fun experiment and chance to exercise some new (and old) skills.</li>
+  <li>Format will most likely consist of everything incrementally stored and updated in git, to ensure a change log and history.</li>
+</ul>
+
+<h3 id="what-it-wont-be">What it won’t be</h3>
+<ul>
+  <li>Video, audio or long form content.</li>
+  <li>Regularly scheduled.</li>
+  <li>Live-streamed in any fashion.</li>
+</ul>
+
+<h3 id="what-inspired-this">What inspired this?</h3>
+<ul>
+  <li><a href="https://twitter.com/shpigford/status/1033032915175858176?s=46&amp;t=8UnaRcO0QWgP3l21v-zrBw">Josh Pigford’s projects spreadsheet</a></li>
+  <li>Elon taking over and slowly dismantling Twitter.</li>
+  <li>Desire to get back into building single serving web tools for fun without expectation of scale.</li>
+</ul>
+
+<h3 id="activity-log>Activity Log</h3>
+<ul class="activity">
+  {% for post in site.categories.activity %}
+  <li>{{ post.date | date: "%A, %B %-d, %Y" }} - {{ post.title }} ({{ post.duration }})</li>
+  {% endfor %}
+</ul>
