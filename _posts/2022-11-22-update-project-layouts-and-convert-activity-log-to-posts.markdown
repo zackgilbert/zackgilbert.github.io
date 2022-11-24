@@ -16,6 +16,12 @@ tags: rebuild
 
 <p>{{ page.duration }}</p>
 
+<h3>Affected Pages</h3>
+<ul>
+  <li><a href="https://rebuild.zackgilbert.com">https://rebuild.zackgilbert.com</a></li>
+  <li><a href="https://rebuild.zackgilbert.com/feed.xml">https://rebuild.zackgilbert.com/feed.xml</a></li>
+</ul>
+
 {% if page.tags %}
   <small>tags: <em>{{ page.tags | join: "</em> - <em>" }}</em></small>
 {% endif %}
