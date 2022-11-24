@@ -1,7 +1,7 @@
 ---
 layout: activity
-title: "Added affected pages to posts"
-duration: "~15 minutes in the evening"
+title: "Added affected pages to posts, rebuild workwithzack.com"
+duration: "~15 minutes + 1 hour in the evening"
 date: 2022-11-23
 permalink: /:categories/:year-:month-:day
 author: Zack Gilbert
@@ -19,6 +19,7 @@ tags: rebuild
 <h3>Affected Pages</h3>
 <ul>
   <li>https://rebuild.zackgilbert.com/activity/*</li>
+  <li><a href="https://workwithzack.com">https://workwithzack.com</a></li>
 </ul>
 
 {% if page.tags %}
