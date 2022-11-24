@@ -1,6 +1,6 @@
 ---
 layout: activity
-title: "Added affected pages to posts, rebuild workwithzack.com"
+title: "Added affected pages to posts, rebuild [workwithzack.com](https://workwithzack.com) on github pages"
 duration: "~15 minutes + 1 hour in the evening"
 date: 2022-11-23
 permalink: /:categories/:year-:month-:day
