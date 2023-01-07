@@ -19,7 +19,6 @@ tags: rebuild, lego
 <h3>Photos</h3>
 <ul>
   <li><img src="https://pbs.twimg.com/media/FlCg_iJWYAA0VEQ?format=jpg&name=large"></li>
-  <li><img src="https://twitter.com/i/status/1608315414643200001"></li>
   <li><img src="https://pbs.twimg.com/media/FlRfVc9WQAAc2nu?format=jpg&name=large"></li>
 </ul>
 
