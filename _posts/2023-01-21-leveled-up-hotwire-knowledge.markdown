@@ -1,6 +1,6 @@
 ---
 layout: activity
-title: "Leveled up Hotwire knowledge via [Andrea Fomera's Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire)Learn Hotwire by Building a Forum) course"
+title: "Leveled up Hotwire knowledge via [Andrea Fomera's Learn Hotwire by Building a Forum](https://store.afomera.dev/learn-hotwire) course"
 duration: "~5 hours total over 3 Satursdays during naps and momma/baby adventures"
 date: 2023-01-21
 permalink: /:categories/:year-:month-:day
