@@ -1,6 +1,6 @@
 ---
 layout: activity
-title: "Lego Build - Iron Man Mark 43 Figure"
+title: "Lego Build - [Iron Man Figure](https://www.lego.com/en-us/product/iron-man-figure-76206)"
 duration: "~3 hours total over 4 nights in the evening"
 date: 2023-01-18
 permalink: /:categories/:year-:month-:day
@@ -22,6 +22,11 @@ tags: rebuild, lego
   <li><img src="https://pbs.twimg.com/media/FmpArXdXEAIDtJt?format=jpg&name=medium"></li>
   <li><img src="https://pbs.twimg.com/media/FmuPrygXoAAGD5M?format=jpg&name=medium"></li>
   <li><img src="https://pbs.twimg.com/media/FmzUxHfWQAEXqHc?format=jpg&name=medium"></li>
+</ul>
+
+<h3>Helpful Resources</h3>
+<ul>
+  <li><a href="https://www.lego.com/en-us/product/iron-man-figure-76206">Iron Man Figure 76206 | Marvel | Buy online at the Official LEGO® Shop US</a></li>
 </ul>
 
 {% if page.tags %}
