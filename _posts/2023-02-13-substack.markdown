@@ -2,7 +2,7 @@
 layout: activity
 title: "Sent out first post in my [Emotional Investors' Updates newsletter](https://zackgilbert.substack.com/p/emotional-investors-update-1-2023)"
 duration: "~3 hours of writing over the past week during naps and at night"
-date: 2023-02-01
+date: 2023-02-13
 permalink: /:categories/:year-:month-:day
 author: Zack Gilbert
 categories: activity
